@@ -21,7 +21,8 @@ Application Details:
 
 Application Limitations:
 
-- Due to time constraints a parser for pdf3.pdf i.e. diesel_engines was not made.
+- Due to time constraints a parser for pdf3.pdf i.e. diesel_engines was not made, as was for pdf1.pdf which i assume fell   
+  under the corrupt PDF file category.
 
 - Extracting data from PDFs is something that i am not much familiar with therefore,
   the algorithms used to extract data might not be the most efficient.
