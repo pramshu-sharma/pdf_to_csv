@@ -35,3 +35,5 @@ Suggestions:
   the learning curve was steep for the allocated time.
 
 - Use of Regular expressions.
+
+If needed for evaluation I can complete the application if the time duration is extended. :)
