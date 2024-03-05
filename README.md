@@ -36,4 +36,3 @@ Suggestions:
 
 - Use of Regular expressions.
 
-If needed for evaluation I can complete the application if the time duration is extended. :)
